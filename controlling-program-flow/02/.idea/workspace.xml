@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6bf4eea-32c1-4ef6-955e-1a0083650809" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../example code/out/production/example code/m2/v7_Underscores/after/Underscores.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/out/production/example code/m2/v7_Underscores/after/Underscores.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/out/production/example code/m3/v11_MathAPIs/after/MathAPIs.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/out/production/example code/m3/v11_MathAPIs/after/MathAPIs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/out/production/example code/m3/v1_Arithmetic_Operators/after/ArithmeticOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/out/production/example code/m3/v1_Arithmetic_Operators/after/ArithmeticOperators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/out/production/example code/m3/v3_AssignmentOperators/after/AssignmentOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/out/production/example code/m3/v3_AssignmentOperators/after/AssignmentOperators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/out/production/example code/m3/v5_LogicalOperators/after/LogicalOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/out/production/example code/m3/v5_LogicalOperators/after/LogicalOperators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/out/production/example code/m3/v6_TernaryOperator/after/TernaryOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/out/production/example code/m3/v6_TernaryOperator/after/TernaryOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/out/production/example code/m3/v7_OtherOperators/after/OtherOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/out/production/example code/m3/v7_OtherOperators/after/OtherOperators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/out/production/example code/m3/v8_OrderOfOperations_Part1/after/OrderOfOperations_Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/out/production/example code/m3/v8_OrderOfOperations_Part1/after/OrderOfOperations_Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/out/production/example code/m3/v9_OrderOfOperations_Part2/after/OrderOfOperations_Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/out/production/example code/m3/v9_OrderOfOperations_Part2/after/OrderOfOperations_Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/out/production/example code/m4/v1_WrapperConversionMethods/after/WrapperConversionMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/out/production/example code/m4/v1_WrapperConversionMethods/after/WrapperConversionMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/out/production/example code/m4/v3_CustomWrapper/after/Volume.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/out/production/example code/m4/v3_CustomWrapper/after/Volume.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/out/production/example code/m5/v1_FieldsVsVariables/after/FieldsVsVariables.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/out/production/example code/m5/v1_FieldsVsVariables/after/FieldsVsVariables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/out/production/example code/m5/v2_MembersAndScope/after/MembersAndScope.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/out/production/example code/m5/v2_MembersAndScope/after/MembersAndScope.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/out/production/example code/m5/v6_LocalVariableTypeInference/after/LocalVariableTypeInference.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/out/production/example code/m5/v6_LocalVariableTypeInference/after/LocalVariableTypeInference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/out/production/example code/m5/v7_Varargs/after/Varargs.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/out/production/example code/m5/v7_Varargs/after/Varargs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/out/production/example code/m6/v4_StringMethods_2/after/StringMethods_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/out/production/example code/m6/v4_StringMethods_2/after/StringMethods_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/src/m2/v7_Underscores/after/Underscores.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/src/m2/v7_Underscores/after/Underscores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/src/m3/v11_MathAPIs/after/MathAPIs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/src/m3/v11_MathAPIs/after/MathAPIs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/src/m3/v1_Arithmetic_Operators/after/ArithmeticOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/src/m3/v1_Arithmetic_Operators/after/ArithmeticOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/src/m3/v2_PrePostUnaryOperators/after/PrePostUnaryOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/src/m3/v2_PrePostUnaryOperators/after/PrePostUnaryOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/src/m3/v3_AssignmentOperators/after/AssignmentOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/src/m3/v3_AssignmentOperators/after/AssignmentOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/src/m3/v5_LogicalOperators/after/LogicalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/src/m3/v5_LogicalOperators/after/LogicalOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/src/m3/v6_TernaryOperator/after/TernaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/src/m3/v6_TernaryOperator/after/TernaryOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/src/m3/v7_OtherOperators/after/OtherOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/src/m3/v7_OtherOperators/after/OtherOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/src/m3/v8_OrderOfOperations_Part1/after/OrderOfOperations_Part1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/src/m3/v8_OrderOfOperations_Part1/after/OrderOfOperations_Part1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/src/m3/v9_OrderOfOperations_Part2/after/OrderOfOperations_Part2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/src/m3/v9_OrderOfOperations_Part2/after/OrderOfOperations_Part2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/src/m4/v1_WrapperConversionMethods/after/WrapperConversionMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/src/m4/v1_WrapperConversionMethods/after/WrapperConversionMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/src/m4/v3_CustomWrapper/after/Volume.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/src/m4/v3_CustomWrapper/after/Volume.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/src/m5/v1_FieldsVsVariables/after/FieldsVsVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/src/m5/v1_FieldsVsVariables/after/FieldsVsVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/src/m5/v2_MembersAndScope/after/MembersAndScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/src/m5/v2_MembersAndScope/after/MembersAndScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/src/m5/v6_LocalVariableTypeInference/after/LocalVariableTypeInference.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/src/m5/v6_LocalVariableTypeInference/after/LocalVariableTypeInference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/src/m5/v7_Varargs/after/Varargs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/src/m5/v7_Varargs/after/Varargs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/src/m6/v3_StringMethods_1/after/StringMethods_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/src/m6/v3_StringMethods_1/after/StringMethods_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/src/m6/v4_StringMethods_2/after/StringMethods_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/src/m6/v4_StringMethods_2/after/StringMethods_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example code/src/m6/v6_DatesAndTimes_2/after/DatesAndTimes_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../example code/src/m6/v6_DatesAndTimes_2/after/DatesAndTimes_2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="253m81sQq0uo277s0jtNpk7hBsd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6bf4eea-32c1-4ef6-955e-1a0083650809" name="Changes" comment="" />
+      <created>1644763981448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644763981448</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,6 +1,8 @@
 package m5.v1_FieldsVsVariables.after;
 
+import java.util.Random;
 
+import static java.lang.System.out;
 
 public class FieldsVsVariables {
 

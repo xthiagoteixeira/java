@@ -8,6 +8,7 @@ public class OrderOfOperations_Part2 {
         int x = 3;
         int y = 4;
         boolean b = y + x * x > y & y != ++x;
+        //          V             & F       // true
         out.println("y + x * x > y & y != ++x = " + b);
 
         boolean xB = true;

@@ -15,8 +15,6 @@ public class DatesAndTimes_2 {
                 2022,10,31,
                 9,45);
 
-
-
 		/* Create a DateTimeFormatter with format pattern */
         var pattern = DateTimeFormatter.ofPattern("EEEE, LLLL dd, yyyy 'at' hh:mm");
         String dateTimeString = localDateTime.format(pattern);

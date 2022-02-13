@@ -65,7 +65,7 @@ public class StringMethods_1 {
 
         /* trim also removes all escaped characters except escaped single
             and double quotes and backslashes
-        */
+            */
         str = "\t\b   \"Hi there!\"  \\\r\n\f";
         out.println(str.length()); // 22
         str2 = str.trim();
@@ -79,7 +79,7 @@ public class StringMethods_1 {
         str2 = str.strip();
         out.println(str2.length()); // 22, (     "Hi there!"  \)
 
-        /* the stripLeading and stipTrailing work the same way
+        /* the stripLeading and stripTrailing work the same way
             as strip, but focus on the beginning or the end of the string
             respectively
          */

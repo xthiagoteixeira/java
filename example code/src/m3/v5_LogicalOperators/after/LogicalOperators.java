@@ -9,8 +9,6 @@ public class LogicalOperators {
         boolean yBool = false; // false
         boolean result = (xInt++ <= 7) || (yBool = true); // true
 
-
-
         /* demo boolean variables */
         boolean tru_1 = true;
         boolean tru_2 = true;

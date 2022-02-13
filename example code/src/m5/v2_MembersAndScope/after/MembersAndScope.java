@@ -38,7 +38,9 @@ public class MembersAndScope {
     }
 
     // instance method; a member
-    public void anInstanceMethod(){}
+    public void anInstanceMethod(){
+        staticField +=1;
+    }
 
     // constructor; not a member
     public MembersAndScope(){ }

@@ -26,7 +26,7 @@ public class AssignmentOperators {
         /* Compound assignment example */
         int xInt = 5;
         int yInt = 3;
-        yInt *= yInt; // 15
+        xInt *= yInt; // 15
         yInt = yInt * xInt; // 15
 
         /* Compound assignments automatically cast the result to the assign type */
@@ -34,7 +34,6 @@ public class AssignmentOperators {
         double yDouble = 3.0;
 
         //xByte = xByte + yDouble;
-
         xByte += yDouble;
         xByte = (byte)(xByte + yDouble);
 
@@ -43,7 +42,9 @@ public class AssignmentOperators {
         float afloat = 5.0f;
         long aLong = 10;
         short aShort = 3;
-        xByte += yDouble + afloat * aLong % aShort; // 10
+        double conta = yDouble + afloat * aLong % aShort;
+        xByte = (byte) (xByte + (conta)); // 10
+        out.println(xByte);
 
     }
 }

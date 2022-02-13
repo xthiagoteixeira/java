@@ -23,6 +23,7 @@ public class MathAPIs {
         double pI = 3.14;
         float eN = -2.71f;
 
+        //Arredondamento
         long longX = Math.round(pI); // 3
         out.format("Math.round(%.2f) = %d%n",pI,longX);
 

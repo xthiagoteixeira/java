@@ -48,8 +48,7 @@ public class LocalVariableTypeInference {
         int nInt = 1, mInt = 2, oInt = 3;
 
         /* multi-variable initialization is NOT allowed with var  */
-        //var pInt = 1, qInt = 2, rInt = 3; // compile error
-
+        // var pInt = 1, qInt = 2, rInt = 3; // compile error
 
     }
 

@@ -18,6 +18,8 @@ public class WrapperConversionMethods {
         intWrapper = new Integer(200_000);
         shtVal = intWrapper.shortValue(); // 3392
 
+        //out.println(shtVal);
+
         Double dblWrapper = new Double(3.14);
         bytVal = dblWrapper.byteValue(); // 3
 

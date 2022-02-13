@@ -31,7 +31,7 @@ public class PrePostUnaryOperators {
         /* Post Unary operators decrement or increment a number.
             The change occurs after the variable is incremented,
             not before.
-         */
+        */
         xInt = 1; // 3
         result = xInt++ + xInt + xInt++; // 5
         //         1       2       2   = 5

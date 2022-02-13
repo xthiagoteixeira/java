@@ -9,9 +9,10 @@ public class Varargs {
     }
 
     public static void someMethod(String x, double y, int... nums){
-        out.print(x+", "); out.print(y + ", ");
+        out.print(x+", "); out.print(y+", ");
         out.println(Arrays.toString(nums));
     }
+
     public static void main(String[] args) {
         out.println("\n** Varargs ** \n");
 

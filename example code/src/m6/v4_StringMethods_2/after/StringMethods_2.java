@@ -17,6 +17,8 @@ public class StringMethods_2 {
          */
         str = "Mississippi";
         int index = str.indexOf('s');
+       // int index = str.indexOf(2); Retorna -1
+
         out.println(index); // 2
 
         /* indexOf() returns the beginning index of the first occurrence
@@ -29,6 +31,7 @@ public class StringMethods_2 {
         /* indexOf starting at index */
         str = "Mississippi";
         index = str.indexOf('i', 5);
+        out.println(index); // 7
         index = str.indexOf("ss", 4);
         out.println(index); // 5
 

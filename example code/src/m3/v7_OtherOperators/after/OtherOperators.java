@@ -25,6 +25,9 @@ public class OtherOperators {
         with pre-unary operators */
         x = 5;
         y = --x * -3 + -x;  // -16.0
+        out.println(y);
+
+
   
 
     }

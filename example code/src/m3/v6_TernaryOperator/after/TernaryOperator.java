@@ -25,8 +25,7 @@ public class TernaryOperator {
 
         double dValue = ((x <= 3)? 0.0 : 3.14) * 13;
 
-        String strValue = "The strValue is "
-                +( (x <= 3)? x : "to high" );
+        String strValue = "The strValue is " + ( (x <= 3)? x : "to high" );
 
         out.println(strValue);
 

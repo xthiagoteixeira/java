@@ -2,13 +2,12 @@ package m4.v3_CustomWrapper.after;
 
 public final class Volume {
 
-    public final double liters;
+    public double liters;
     private final static double MIN_LITERS = 0;
     private final static double MAX_LITERS = Double.MAX_VALUE;
 
     public Volume(double inLiters){
-        if( inLiters >= MIN_LITERS ) throw new java.lang.NumberFormatException();
-
+        if( inLiters >= MIN_LITERS )
         liters = inLiters;
     }
     public double getVolume(){

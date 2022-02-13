@@ -20,6 +20,11 @@ public class Underscores {
         /* underscores can also be used in doubles and floats */
         double Pi = 3.141_592_653_793_238d;
 
+        out.println(worldPopulation);
+        out.println(phoneNumber);
+        out.println(Pi);
+
+
         /* underscores cannot be used at the start or end of a number
 
         short maxShort = _32_767;

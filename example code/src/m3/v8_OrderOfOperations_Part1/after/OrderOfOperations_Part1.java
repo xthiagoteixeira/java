@@ -8,6 +8,7 @@ public class OrderOfOperations_Part1 {
         int x = 3;
         int y = 4;
         int z = x++ + y + --y + x;
+        //       3    4     3   4
         out.println("x++ + y + --y + x = " + z);
 
         x = 3;
@@ -18,6 +19,7 @@ public class OrderOfOperations_Part1 {
         x = 3;
         y = 4;
         z = x * x++ + y - y / x;
+        //  3    3    4   4  / 4
         out.println("x * x++ + y - y / x = " + z);
     }
 }

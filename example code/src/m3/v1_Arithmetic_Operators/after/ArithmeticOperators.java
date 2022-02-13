@@ -24,6 +24,7 @@ public class ArithmeticOperators {
         xShort = 5;
         int yInt = 3;
         long zLong = 10;
+
         // intResult = xShort + yInt * zLong;
         long longResult = xShort + yInt * zLong;
 
